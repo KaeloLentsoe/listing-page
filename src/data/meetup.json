@@ -27,7 +27,9 @@
     {
         "name": "Tech Leadership",
         "url": "https://www.meetup.com/tech-leadership-meetup/",
-        "type": "Recurring Meetups"
+        "type": "Recurring Meetups",
+        "Description": "We aim to create an open community of people managers and technology leaders to exchange regularly about managing teams, solving difficult organisational topics, 
+        discovering new ways of working with the people we are allowed to mentor and all other aspects."
     },
     {
         "name": "Cape Town AWS Meetup",
@@ -42,17 +44,19 @@
     {
         "name": "DataConf",
         "url": "https://www.dataconf.co.za/",
-        "type": "Annual Conferences"
-    },
+        "type": "Annual Conferences",
+        "Description": "DataConf targets professionals who work in any area of the data ecosystem, across various different industries. The range of topics aims to attract various levels of experience and roles. "
     {
         "name": "DevConf",
         "url": "https://www.devconf.co.za/",
-        "type": "Annual Conferences"
+        "type": "Annual Conferences",
+        
     },
     {
         "name": "PyconZA",
         "url": "https://za.pycon.org/",
-        "type": "Annual Conferences"
+        "type": "Annual Conferences",
+        "Description": "PyConZA is the annual gathering of the South African community using and developing the open-source Python programming language."
     },
     {
         "name": "UX SA",
@@ -62,6 +66,7 @@
     {
         "name": "ServerlessDays Cape Town",
         "url": "https://capetown.serverlessdays.io/",
-        "type": "Annual Conferences"
+        "type": "Annual Conferences",
+        "Description": "ServerlessDays are a family of events around the world focused on fostering a community around serverless technologies."
     }
 ]
